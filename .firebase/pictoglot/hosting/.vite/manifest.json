@@ -1,0 +1,71 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js"
+    ],
+    "file": "_app/immutable/entry/app.84cca644.js",
+    "imports": [
+      "_scheduler.cc9b4bb6.js",
+      "_index.9a84f8a4.js"
+    ],
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/app.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0.377ef872.js",
+    "imports": [
+      "_scheduler.cc9b4bb6.js",
+      "_index.9a84f8a4.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.bd40bd4e.js",
+    "imports": [
+      "_scheduler.cc9b4bb6.js",
+      "_index.9a84f8a4.js",
+      "_singletons.4a62cbf5.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "_app/immutable/nodes/2.90c7ae95.js",
+    "imports": [
+      "_scheduler.cc9b4bb6.js",
+      "_index.9a84f8a4.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js"
+  },
+  "_index.9a84f8a4.js": {
+    "file": "_app/immutable/chunks/index.9a84f8a4.js",
+    "imports": [
+      "_scheduler.cc9b4bb6.js"
+    ]
+  },
+  "_scheduler.cc9b4bb6.js": {
+    "file": "_app/immutable/chunks/scheduler.cc9b4bb6.js"
+  },
+  "_singletons.4a62cbf5.js": {
+    "file": "_app/immutable/chunks/singletons.4a62cbf5.js",
+    "imports": [
+      "_scheduler.cc9b4bb6.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/entry/start.80ca026e.js",
+    "imports": [
+      "_scheduler.cc9b4bb6.js",
+      "_singletons.4a62cbf5.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js"
+  }
+}
