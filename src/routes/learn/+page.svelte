@@ -6,8 +6,6 @@
     <h2>Select Language:</h2>
     <input type="radio" id="german" name="lang" on:click={()=>{lang = "de"}}>
     <label for="german">German</label>
-    <input type="radio" id="spanish" name="lang" on:click={()=>{lang = "es"}}>
-    <label for="spanish">Spanish</label>
 </div>
 
 {#if lang != ""}
